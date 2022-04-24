@@ -22,6 +22,7 @@ INSTALLED_APPS = [
     'debug_toolbar',
     'django_filters',
     'drf_spectacular',
+    'django_extensions',
     'autho',
     'course',
     'mixins',
